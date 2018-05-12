@@ -1,0 +1,36 @@
+_repo: Household-Gods--13-A-Comedy_14040
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Crowley, Aleister
+    aliases:
+    - Crowley, Edward Alexander
+    - Crowley, Edward Aleister
+    birthdate: 1875
+    deathdate: 1947
+    gutenberg_agent_id: '5341'
+    url: http://www.gutenberg.org/2009/agents/5341
+    wikipedia: http://en.wikipedia.org/wiki/Aleister_Crowley
+description: Aleister Crowley was an English occultist, writer, mountaineer, poet,
+  spy and yogi. He was an influential member of several occult organizations and is
+  best known today for his occult writings, especially The Book of the Law, the central
+  sacred text of Thelema. He gained much notoriety during his lifetime, and was dubbed
+  "The Wickedest Man In the World." Crowley was also a chess player, painter, astrologer,
+  hedonist, bisexual, drug experimenter, and social critic. "Household Gods" is a
+  play by Crowley ...
+gutenberg_issued: '2004-11-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14040'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: "Household Gods\r\nA Comedy"
+url: http://www.gutenberg.org/ebooks/14040
